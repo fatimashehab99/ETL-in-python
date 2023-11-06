@@ -1,4 +1,4 @@
-from base import Base
+from scripts.common.base import Base
 from sqlalchemy import cast,Column,Integer,String,Date
 from sqlalchemy.orm import column_property
 
